@@ -1,9 +1,8 @@
 # K_eventOr
  event orgnanizer website design 
- 
- ![e90c4486-738c-4fc1-9770-a7436edf242e](https://user-images.githubusercontent.com/100964607/186772660-32644c0f-d6cf-46d7-982e-5b3f346ca054.png)
-
- 
- 
- live demo 
+  live demo 
  https://keventor.netlify.app/
+ 
+ ![K'eventOr](https://user-images.githubusercontent.com/100964607/186970329-4af1b4ea-49e5-4d66-bcc1-f14ba2669c23.png)
+
+
