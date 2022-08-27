@@ -327,7 +327,7 @@ section{
 
 /**************************** Review ****************************/
 .review_ .box{
-    border-radius: .5rem;
+    border-radius: 5rem;
     background: rgb(2,0,36);
     padding:2rem;
     position: relative;
